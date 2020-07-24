@@ -791,7 +791,7 @@ I also sent one to each of the principal professors with whom I had been acquain
 --
 
 [.letter-heading]
-To * * * * *,
+To +++_______+++,
 
 [.salutation]
 Respected Friend;
