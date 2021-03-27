@@ -1,4 +1,4 @@
-[#ch-few-reasons.style-blurb, short="A Few Reasons for Leaving the National Worship"]
+[.style-blurb, short="A Few Reasons for Leaving the National Worship"]
 == A Few Reasons for Leaving the National Established Mode of Worship, Addressed principally to those who attend at the place called St. Giles`'s church, Reading.
 
 [quote.scripture, , 1 Thess. 5:21]
